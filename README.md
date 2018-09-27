@@ -1,2 +1,0 @@
-# quivido
-Created with CodeSandbox
